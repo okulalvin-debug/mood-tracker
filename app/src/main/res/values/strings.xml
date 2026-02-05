@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="please_enter_a_mood">Please enter a mood!</string>
+    <string name="today_is_a_day">Today is a %1$s day!</string>
+</resources>
